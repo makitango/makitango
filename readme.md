@@ -26,4 +26,4 @@ What am I proud of in my life?
 - having gotten a PS5 during the early days
 - the way I calculate the rent for my sub-tenants and display the information would make my ancestors proud, them believing once again in my math skills when looking down from the iCloud
 ---
-> My most favourite quote: "Everything on the internet is true." - Benjamin Franklin
+>"Everything on the internet is true." - Benjamin Franklin
