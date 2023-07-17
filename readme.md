@@ -4,7 +4,7 @@ First things first, I am just getting into coding and this profile should be tak
 
 My name is **Dominic** and my nickname _makitango_ originates from me supposedly looking like the maki from the Madagascar movie whenever I see Kinder Bueno chocolate bars (best served right from the fridge) and having had a fascination for the same-named dance (not denying that my skills to open tango.exe have largely vanished).
 
-Contrary to the headline, my Spanish skills should not be tested. _(And cannot, or at least successfully.)_
+Contrary to the headline, my Spanish skills should not be tested. _(And cannot since it will return a "function not found" error.)_
 
 ---
 My work experience has been this mostly:
