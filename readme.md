@@ -3,7 +3,7 @@
 
 My name is **Dominic** and my nickname _makitango_ originates from me supposedly looking like the maki from the Madagascar movie whenever I see Kinder Bueno chocolate bars (best served right from the fridge) and having had a fascination for the same-named dance (not denying that my skills to open tango.exe have largely vanished).
 
-I am a QA engineer turned-coding enthusiast with work experience in machine learning, and my focus is on JavaScript/TypeScript, Java, Swift and Kotlin. 
+I am a QA engineer turned-coding enthusiast with work experience in machine learning and natural language processing, and my focus is on JavaScript/TypeScript, Java, Swift and Kotlin. 
 
 Contrary to the headline, my Spanish skills should not be tested. _(And cannot since it will return a "function not found" error.)_
 
