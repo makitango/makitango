@@ -1,8 +1,9 @@
 ![Hello there](https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e47dbyeogxqk85oa5tehr1tce15acxvdjgqglgyq8po&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 # Hola.
-First things first, I am just getting into coding and this profile should be taken with a grain of salt. So don't rub it in your eyes too much!
 
 My name is **Dominic** and my nickname _makitango_ originates from me supposedly looking like the maki from the Madagascar movie whenever I see Kinder Bueno chocolate bars (best served right from the fridge) and having had a fascination for the same-named dance (not denying that my skills to open tango.exe have largely vanished).
+
+I am a QA engineer turned-coding enthusiast with work experience in machine learning, and my focus is on JavaScript/TypeScript, Java, Swift and Kotlin. 
 
 Contrary to the headline, my Spanish skills should not be tested. _(And cannot since it will return a "function not found" error.)_
 
