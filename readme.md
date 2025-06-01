@@ -23,7 +23,7 @@ You can lure me under a bridge with the following:
 
 What am I proud of in my life?
 - having a cascaded file structure on my desktop folder, dating back years
-- cooking 3 min instant dishes for over 20 mins and pimping the crap out of them
+- cooking 3 min instant dishes for over 20 mins and refactoring the crap out of them
 - having gotten a PS5 during the early days
 - the way I calculate the rent for my sub-tenants and display the information would make my ancestors proud, them believing once again in my math skills when looking down from the iCloud
 ---
